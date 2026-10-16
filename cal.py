@@ -1,6 +1,6 @@
 def calculator():
     print("=== Python Calculator ===")
-    print("Operations: +, -, *, /")
+    print("Operations: +, -, *)
 
     try:
         num1 = float(input("Enter first number: "))
